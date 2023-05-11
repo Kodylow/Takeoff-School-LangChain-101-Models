@@ -8,9 +8,17 @@ Instead of passing a string in and getting a string out, we pass in messages and
 
 ## Section 1: Initializing A Chat Model
 
-### Run Command
+### Run Commands
 
-**Use this to run the file in your `shell`:** 
+Use these to run the files in your `shell`:
+
+**Your Code**
+
+```
+python3 your_code/chat/01.py
+```
+
+**Tutorial Code**
 
 ```
 python3 tutorial_code/chat/01.py
@@ -32,9 +40,17 @@ chat = ChatOpenAI(temperature=0.5)
 
 ## Section 2: Making A Request
 
-### Run Command
+### Run Commands
 
-**Use this to run the file in your `shell`:** 
+Use these to run the files in your `shell`:
+
+**Your Code**
+
+```
+python3 your_code/chat/02.py
+```
+
+**Tutorial Code**
 
 ```
 python3 tutorial_code/chat/02.py
@@ -68,9 +84,17 @@ print(result)
 
 ## Section 3: A Full Chat
 
-### Run Command
+### Run Commands
 
-**Use this to run the file in your `shell`:** 
+Use these to run the files in your `shell`:
+
+**Your Code**
+
+```
+python3 your_code/chat/03.py
+```
+
+**Tutorial Code**
 
 ```
 python3 tutorial_code/chat/03.py
@@ -105,9 +129,17 @@ print(result)
 
 ## Section 4: Streaming
 
-### Run Command
+### Run Commands
 
-**Use this to run the file in your `shell`:** 
+Use these to run the files in your `shell`:
+
+**Your Code**
+
+```
+python3 your_code/chat/04.py
+```
+
+**Tutorial Code**
 
 ```
 python3 tutorial_code/chat/04.py
@@ -137,9 +169,17 @@ print(result)
 
 ## Section 5: Using Generate
 
-### Run Command
+### Run Commands
 
-**Use this to run the file in your `shell`:** 
+Use these to run the files in your `shell`:
+
+**Your Code**
+
+```
+python3 your_code/chat/05.py
+```
+
+**Tutorial Code**
 
 ```
 python3 tutorial_code/chat/05.py

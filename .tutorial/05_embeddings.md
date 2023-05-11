@@ -8,9 +8,17 @@ The vector stores semantic information about the text and allows us to do powerf
 
 ## Section 1: Initialize An Embedding Model
 
-### Run Command
+### Run Commands
 
-**Use this to run the file in your `shell`:** 
+Use these to run the files in your `shell`:
+
+**Your Code**
+
+```
+python3 your_code/embeddings/01.py
+```
+
+**Tutorial Code**
 
 ```
 python3 tutorial_code/embeddings/01.py
@@ -44,9 +52,17 @@ embeddings = OpenAIEmbeddings()
 
 ## Section 2: Embedding A Query
 
-### Run Command
+### Run Commands
 
-**Use this to run the file in your `shell`:** 
+Use these to run the files in your `shell`:
+
+**Your Code**
+
+```
+python3 your_code/embeddings/02.py
+```
+
+**Tutorial Code**
 
 ```
 python3 tutorial_code/embeddings/02.py
@@ -82,9 +98,17 @@ print(query_embedding)
 
 ## Section 3: Embedding Multiple Documents
 
-### Run Command
+### Run Commands
 
-**Use this to run the file in your `shell`:** 
+Use these to run the files in your `shell`:
+
+**Your Code**
+
+```
+python3 your_code/embeddings/03.py
+```
+
+**Tutorial Code**
 
 ```
 python3 tutorial_code/embeddings/03.py

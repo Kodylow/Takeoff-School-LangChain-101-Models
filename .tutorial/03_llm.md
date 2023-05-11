@@ -2,9 +2,17 @@
 
 ## Section 1: Making A Request
 
-### Run Command
+### Run Commands
 
-**Use this to run the file in your `shell`:** 
+Use these to run the files in your `shell`:
+
+**Your Code**
+
+```
+python3 your_code/llm/01.py
+```
+
+**Tutorial Code**
 
 ```
 python3 tutorial_code/llm/01.py
@@ -56,9 +64,17 @@ print(result)
 
 ## Section 2: Using Generate
 
-### Run Command
+### Run Commands
 
-**Use this to run the file in your `shell`:** 
+Use these to run the files in your `shell`:
+
+**Your Code**
+
+```
+python3 your_code/llm/02.py
+```
+
+**Tutorial Code**
 
 ```
 python3 tutorial_code/llm/02.py
@@ -108,9 +124,17 @@ print(result.llm_output)
 
 ## Section 3: Token Usage
 
-### Run Command
+### Run Commands
 
-**Use this to run the file in your `shell`:** 
+Use these to run the files in your `shell`:
+
+**Your Code**
+
+```
+python3 your_code/llm/03.py
+```
+
+**Tutorial Code**
 
 ```
 python3 tutorial_code/llm/03.py
@@ -150,9 +174,17 @@ print(token_count)
 
 ## Section 4: Streaming
 
-### Run Command
+### Run Commands
 
-**Use this to run the file in your `shell`:** 
+Use these to run the files in your `shell`:
+
+**Your Code**
+
+```
+python3 your_code/llm/04.py
+```
+
+**Tutorial Code**
 
 ```
 python3 tutorial_code/llm/04.py
